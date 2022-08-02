@@ -1,0 +1,15 @@
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Release\AgentHttp.exe.config
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Release\AgentHttp.exe
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Release\AgentHttp.pdb
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Release\Newtonsoft.Json.dll
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Release\Newtonsoft.Json.xml
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.csproj.AssemblyReference.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.Home.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.Login.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.Properties.Resources.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.csproj.GenerateResource.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.csproj.CopyComplete
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.exe
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Release\AgentHttp.pdb

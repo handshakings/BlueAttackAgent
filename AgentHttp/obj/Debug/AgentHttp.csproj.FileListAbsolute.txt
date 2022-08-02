@@ -1,0 +1,30 @@
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.csproj.AssemblyReference.cache
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.csproj.SuggestedBindingRedirects.cache
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.Login.resources
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.Properties.Resources.resources
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.csproj.GenerateResource.cache
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.csproj.CoreCompileInputs.cache
+E:\Scrp\ClientWebSocket\AgentHttp\bin\Debug\AgentHttp.exe.config
+E:\Scrp\ClientWebSocket\AgentHttp\bin\Debug\AgentHttp.exe
+E:\Scrp\ClientWebSocket\AgentHttp\bin\Debug\AgentHttp.pdb
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.exe
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.pdb
+E:\Scrp\ClientWebSocket\AgentHttp\bin\Debug\Newtonsoft.Json.dll
+E:\Scrp\ClientWebSocket\AgentHttp\bin\Debug\Newtonsoft.Json.xml
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.Home.resources
+E:\Scrp\ClientWebSocket\AgentHttp\obj\Debug\AgentHttp.csproj.CopyComplete
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Debug\AgentHttp.exe.config
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Debug\AgentHttp.exe
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Debug\AgentHttp.pdb
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Debug\Newtonsoft.Json.dll
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\bin\Debug\Newtonsoft.Json.xml
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.csproj.AssemblyReference.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.Home.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.Login.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.Properties.Resources.resources
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.csproj.GenerateResource.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.csproj.CopyComplete
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.exe
+D:\Upwork Projects\WebSocketCSharpPhp\AgentHttp\obj\Debug\AgentHttp.pdb

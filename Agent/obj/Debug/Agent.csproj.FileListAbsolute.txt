@@ -1,0 +1,27 @@
+E:\Scrp\Agent\Agent\bin\Debug\Agent.exe.config
+E:\Scrp\Agent\Agent\bin\Debug\Agent.exe
+E:\Scrp\Agent\Agent\bin\Debug\Agent.pdb
+E:\Scrp\Agent\Agent\obj\Debug\Agent.csproj.AssemblyReference.cache
+E:\Scrp\Agent\Agent\obj\Debug\Agent.Form1.resources
+E:\Scrp\Agent\Agent\obj\Debug\Agent.Properties.Resources.resources
+E:\Scrp\Agent\Agent\obj\Debug\Agent.csproj.GenerateResource.cache
+E:\Scrp\Agent\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+E:\Scrp\Agent\Agent\obj\Debug\Agent.exe
+E:\Scrp\Agent\Agent\obj\Debug\Agent.pdb
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Agent.exe.config
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Agent.exe
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Agent.pdb
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Newtonsoft.Json.dll
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Newtonsoft.Json.xml
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.csproj.AssemblyReference.cache
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.Form1.resources
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.Properties.Resources.resources
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.csproj.GenerateResource.cache
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.csproj.CopyComplete
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.exe
+D:\Upwork Projects\ClientWebSocket\Agent\obj\Debug\Agent.pdb
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\Microsoft.WebSockets.dll
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\websocket-sharp.dll
+D:\Upwork Projects\ClientWebSocket\Agent\bin\Debug\websocket-sharp.xml

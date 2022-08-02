@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a57732c0-825d-4582-875c-fd57846c0135": {
+      "ProjectGuid": "a57732c0-825d-4582-875c-fd57846c0135",
+      "DisplayName": "Agent",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bd71cb33-c96b-4f88-93b1-5843a2d780e1": {
+      "ProjectGuid": "bd71cb33-c96b-4f88-93b1-5843a2d780e1",
+      "DisplayName": "AgentDotnet",
+      "ColorIndex": 1
+    },
+    "4b01fac2-c197-4be7-a4c8-f78e6dfc4362": {
+      "ProjectGuid": "4b01fac2-c197-4be7-a4c8-f78e6dfc4362",
+      "DisplayName": "AgentHttp",
+      "ColorIndex": 2
+    },
+    "0a3a776f-44ce-473b-bc41-0f845cb07877": {
+      "ProjectGuid": "0a3a776f-44ce-473b-bc41-0f845cb07877",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 3
+    },
+    "99820a22-46f7-4a1f-888d-0ccbbc8a8c1b": {
+      "ProjectGuid": "99820a22-46f7-4a1f-888d-0ccbbc8a8c1b",
+      "DisplayName": "SignalR",
+      "ColorIndex": 4
+    },
+    "5f921520-c5ff-44d5-be3d-803b00a9291e": {
+      "ProjectGuid": "5f921520-c5ff-44d5-be3d-803b00a9291e",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 5
+    },
+    "8e44811b-5038-49a5-bf36-4e6012871e8b": {
+      "ProjectGuid": "8e44811b-5038-49a5-bf36-4e6012871e8b",
+      "DisplayName": "SignalR_CoreWebApi",
+      "ColorIndex": 6
+    },
+    "891e3970-0547-4b08-837b-f2998e81cdcb": {
+      "ProjectGuid": "891e3970-0547-4b08-837b-f2998e81cdcb",
+      "DisplayName": "SignalRServer",
+      "ColorIndex": 7
+    },
+    "98d71b4a-798a-4983-afcd-c9e34a561115": {
+      "ProjectGuid": "98d71b4a-798a-4983-afcd-c9e34a561115",
+      "DisplayName": "SignalRServer",
+      "ColorIndex": 8
+    },
+    "e739d6bc-d436-48b8-a565-0fbba64f8091": {
+      "ProjectGuid": "e739d6bc-d436-48b8-a565-0fbba64f8091",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 9
+    },
+    "6aa083fc-de3a-4b3f-a90c-5a52632f3fe9": {
+      "ProjectGuid": "6aa083fc-de3a-4b3f-a90c-5a52632f3fe9",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 10
+    },
+    "15762185-47b2-4f56-8596-0ecb6d4c6c35": {
+      "ProjectGuid": "15762185-47b2-4f56-8596-0ecb6d4c6c35",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

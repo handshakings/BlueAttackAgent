@@ -1,0 +1,32 @@
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.exe.config
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.exe
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.pdb
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\Newtonsoft.Json.dll
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\websocket-sharp.dll
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\Newtonsoft.Json.xml
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\bin\Debug\websocket-sharp.xml
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.AssemblyReference.cache
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.Form1.resources
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.Properties.Resources.resources
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.GenerateResource.cache
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.CopyComplete
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.exe
+D:\Upwork Projects\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.pdb
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.exe.config
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.exe
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\AgentDotnet.pdb
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\Newtonsoft.Json.dll
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\websocket-sharp.dll
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\Newtonsoft.Json.xml
+E:\Scrp\ClientWebSocket\AgentDotnet\bin\Debug\websocket-sharp.xml
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.AssemblyReference.cache
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.SuggestedBindingRedirects.cache
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.Form1.resources
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.Properties.Resources.resources
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.GenerateResource.cache
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.CoreCompileInputs.cache
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.csproj.CopyComplete
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.exe
+E:\Scrp\ClientWebSocket\AgentDotnet\obj\Debug\AgentDotnet.pdb
